@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to Mina Melad's profile!!</h1>
 <h3 align="center">A passionate fronteSoftware engineering student, interested in solving problems, studying at the College of Computers and Informationnd developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mina-melad-1&label=Profile%20views&color=0e75b6&style=flat" alt="mina-melad-1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
