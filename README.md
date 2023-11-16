@@ -1,27 +1,10 @@
-### Hi there 👋
+###  Welcome to Mina Melad's profile!!
+Software engineering student, interested in solving problems, studying at the College of Computers and Information
 
-# Hello, I'm [Your Name]! 👋
+Skills:
+Problem Solving 
+. Languages: c++ , java
 
-I am a passionate software engineer currently studying at the College of Computers.
 
-## About Me
-
-- 🎓 Studying at the College of Computers.
-- 💻 Passionate about software development.
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/your-facebook-profile)
-
-## My Programming Stack
-
-![Programming](url-to-your-programming-image)
-
-## Get in Touch
-
-Feel free to say "hi" or connect with me!
-
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mina-Melad-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mina-melad-5a69a226a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100005306312223)  
 
