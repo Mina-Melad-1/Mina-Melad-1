@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Mina-Melad-1/Mina-Melad-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name]! 👋
 
-Here are some ideas to get you started:
+I am a passionate software engineer currently studying at the College of Computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Studying at the College of Computers.
+- 💻 Passionate about software development.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/your-facebook-profile)
+
+## My Programming Stack
+
+![Programming](url-to-your-programming-image)
+
+## Get in Touch
+
+Feel free to say "hi" or connect with me!
+
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+
+
