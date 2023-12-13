@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to Mina Melad's profile!!</h1>
-<h3 align="center">A passionate fronteSoftware engineering student, interested in solving problems, studying at the College of Computers and Informationnd developer from India</h3>
+<h3 align="center">A passionate fronteSoftware engineering student, interested in solving problems, studying at the College of Computers and Informationnd </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
