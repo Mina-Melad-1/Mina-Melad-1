@@ -2,23 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!+👋🏻;I'm+Mina+Melad;Software+Engineering+Student+🧬;Back+End+Developer🛠️;Competitive+Programmer+👩🏻‍💻&font=Lobster&weight=700&size=30&color=FF1493">
 </p>
 
-<div align="left"> 
-  <h3> 👩🏻‍💻 About Me </h3>
-  🌍 I'm based in Egypt<br>
-  🔭 I’m currently working on Backend projects in Software Engineering and deep learning.<br>
-  🛠️ I’m currently learning advanced backend development techniques, database management, and MVC architecture.<br>
-  🤝 I’m looking to collaborate on open-source projects related to backend development and MVC architecture.<br>
-  💬 Ask me about my experiences in web development, Php, Laravel, and data-related projects.<br>
-</div>
 
 ---
-
-## Most Used Languages
-<p align="center">
-  <a href="https://github.com/Mina-Melad-1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Melad-1&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
-  </a>
-</p>
 
 
 
