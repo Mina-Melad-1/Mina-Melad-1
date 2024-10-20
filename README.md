@@ -25,10 +25,11 @@
 
 ### Connect with Me:
 <p align="center">
-  <a href="mina.melad127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/mina-melad-5a69a226a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mina.melad127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mina-melad-5a69a226a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://codeforces.com/profile/Mina-Melad"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AalaaAyman24&color=green" alt="profile views" />
